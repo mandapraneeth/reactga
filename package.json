@@ -41,5 +41,13 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandapraneeth/reactga.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mandapraneeth/reactga/issues"
+  },
+  "homepage": "https://github.com/mandapraneeth/reactga#readme"
 }
